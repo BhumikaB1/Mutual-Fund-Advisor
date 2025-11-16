@@ -1,7 +1,7 @@
 
   # Mutual Fund Analyzer
 
-  This is a code bundle for Mutual Fund Analyzer. The original project is available at https://www.figma.com/design/yAb2fnliLWoWhV2dmm4d2R/Mutual-Fund-Analyzer.
+  This is a code bundle for Mutual Fund Analyzer. 
 
   ## Running the code
 

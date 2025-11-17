@@ -11,6 +11,8 @@ The Mutual Fund Intelligence Bot is an advanced financial assistant that helps u
 This bot is built for real-time mutual fund intelligence, enabling users to understand their portfolio performance with clarity and accuracy.
 
 🚀 Key Features
+
+
 🔐 1. PAN-Based Mutual Fund Fetching
 
 User enters PAN number.
@@ -194,29 +196,6 @@ Based on AMC rules.
 Tax Estimator
 
 STCG / LTCG based on fund type and holding period.
-
-📥 Installation & Setup
-
-(Customize as per your implementation)
-
-git clone https://github.com/yourusername/mf-intelligence-bot
-cd mf-intelligence-bot
-npm install
-npm start
-
-
-or for Python:
-
-pip install -r requirements.txt
-python main.py
-
-🧪 Example User Flows
-Flow 1: PAN Input
-
-User:
-
-Here is my PAN: ABCDE1234F
-
 
 Bot:
 
